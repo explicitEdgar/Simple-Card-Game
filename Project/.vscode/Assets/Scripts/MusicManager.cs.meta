@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4b376d2d145625144a9aff362472685e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BgmAudio: {instanceID: 0}
+  - SfxAudio: {instanceID: 0}
+  - bgm: {fileID: 8300000, guid: 6306498bbea9342a58ad61d5f7128830, type: 3}
+  - attack: {instanceID: 0}
+  - draw: {instanceID: 0}
+  - put: {instanceID: 0}
+  - win: {instanceID: 0}
+  - lose: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
